@@ -78,7 +78,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   
   <tr>
     <td>8</td>
-    <td>Django Predictive Model's WebSite</td>
+    <td>Django Predictive Models WebSite</td>
     <td>
       <img src="images/django.png" alt="Django logo" width="15" style="max-width:100%;"> Django
     </td><td>This project is coded in Django framework. Basically, it is a webapp developed CEMEX that is used to implement neuronal networks as predictive models that can be used through the app based on the receieved epic input files, so the user can get an estimated data result of CEMEX quality products.</td>
