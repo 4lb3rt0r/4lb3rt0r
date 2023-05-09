@@ -25,7 +25,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/C%2B%2B/OOP">OOP</a></td>
     <td>
       <img src="images/C++.png" alt="C++ logo" width="18" style="max-width:100%;"> C++
-    </td><td>Here are contained the OOP scripts and algorithms elaborated in class, including the project.</td>
+    </td><td>Here are contained the OOP scripts and algorithms elaborated in class, including the respective project.</td>
   </tr>
   
   <tr>
@@ -49,7 +49,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Python">Python programming</a></td>
     <td>
       <img src="images/Python.png" alt="Python logo" width="18" style="max-width:100%;"> Python
-    </td><td>Here are contained some activities realized in Python language. Some of the scripts are made for classes, others are personal projects like using API's for manipulating other web applications, web scrapping, etc. There are missing scripts that have to be updated soon./td>
+    </td><td>Here are contained some activities realized in Python language. Some of the scripts are made for classes, others are personal projects like using API's for manipulating other web applications, web scrapping, etc. There are missing scripts that have to be updated or uploaded soon./td>
   </tr>
   
   <tr>
@@ -73,7 +73,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Semana-Tec-Web.git">Vue3 Walmart WebPage</a></td>
     <td>
       <img src="images/Vue3.png" alt="Vue3 logo" width="18" style="max-width:100%;"> Vue3
-    </td><td>This project was made in one week and it's very simple. Basically, we had to make any web development project we wanted, so I chose to replicate a Walmart grocery webpage and it was coded in the Vue3 framework, so I could try more options than the conventional.</td>
+    </td><td>This project was made in one week and it's very simple. Basically, we had to make any web development project we wanted, so I chose to replicate a Walmart grocery webpage and it was coded in the Vue3 framework, which I wanted to give a try to experiment with a different kind of framework.</td>
   </tr>
   
   <tr>
@@ -81,7 +81,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td>Django Predictive Models WebSite</td>
     <td>
       <img src="images/django.png" alt="Django logo" width="15" style="max-width:100%;"> Django
-    </td><td>This project is coded in Django framework. Basically, it is a webapp developed CEMEX that is used to implement neuronal networks as predictive models that can be used through the app based on the receieved epic input files, so the user can get an estimated data result of CEMEX quality products.</td>
+    </td><td>This project is coded in Django framework. Basically, it is a webapp developed for CEMEX, that is used to implement neuronal networks as predictive models that can be used through the app based on the receieved epic input files, so the user can get an estimated data result of CEMEX quality products.</td>
   </tr>
   
   <tr>
@@ -113,7 +113,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/MATLAB">MATLAB modeling & programming</a></td>
     <td>
       <img src="images/MATLAB.png" alt="MATLAB logo" width="18" style="max-width:100%;"> MATLAB
-    </td><td>Here are contained some activities realized in MATLAB for making matrix operations, 3D modeling or other coding excercises made during class.</td>
+    </td><td>Here are contained some activities coded in MATLAB for making matrix operations, 3D modeling or other coding excercises made during class.</td>
   </tr>
   
   <tr>
@@ -121,7 +121,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/R">R scripts</a></td>
     <td>
       <img src="images/R.png" alt="R logo" width="18" style="max-width:100%;"> R
-    </td><td>Here are contained some activities realized in R language. Most of the scripts were coded during class, and the final projects where made for analyzing and comparing different COVID-19 variants and it's components.</td>
+    </td><td>Here are contained some activities coded in R language. Most of the scripts were coded during class, and the final projects where made for analyzing and comparing different COVID-19 variants and it's components.</td>
   </tr>
   
   <tr>
@@ -129,6 +129,6 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/SWI%20Prolog">SWI Prolog scripts</a></td>
     <td>
       <img src="images/SWI PROLOG.png" alt="SWI Prolog logo" width="18" style="max-width:100%;"> SWI Prolog
-    </td><td>Here are contained some activities realized in SWI PROLOG language. Most of the scripts were intended to be practice activities for the better understanding of logic and propositional programming.</td>
+    </td><td>Here are contained some activities programmed in SWI PROLOG language. Most of the scripts were intended to be practice activities for the better understanding of logic and propositional programming.</td>
   </tr>
 </table>
