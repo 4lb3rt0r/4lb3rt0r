@@ -27,7 +27,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   <tr>
     <td>3</td><td>
-      <img src="images/Unity.png" alt="Unity logo" width="18" style="max-width:100%;"> Unity/ <img src="images/C#.png" alt="C# logo" width="15" style="max-width:100%;"> C#
+      <img src="images/Unity.png" alt="Unity logo" width="18" style="max-width:100%;"> Unity/ <img src="images/CS.png" alt="C# logo" width="15" style="max-width:100%;"> C#
     </td><td>Unity projects I've coded with C#</td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   <tr>
     <td>9</td><td>
-      <img src="images/Django.png" alt="Django logo" width="12" style="max-width:100%;"> Django
+      <img src="images/django.png" alt="Django logo" width="12" style="max-width:100%;"> Django
     </td><td>A project that is used to create and use predictive models with certain file inputs for CEMEX</td>
   </tr>
   <tr>
@@ -81,3 +81,4 @@ Here's where I save all my most outstanding works, applications and codes as a d
     </td><td>Scripts of different excercises and projects made in MATLAB</td>
   </tr>
 </table>
+
