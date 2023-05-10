@@ -7,7 +7,7 @@ I am a BS in Computer Science and Technology student at the Tecnológico de Mont
 Data Science, Web Development & Design, Data Bases, Videogame Development
 
 ### Domained Programming Languages & Tools:
-<img src="images/C++.png" alt="C++ logo" width="20" style="max-width:100%;"> <img src="images/CS.png" alt="CS logo" width="20" style="max-width:100%;"> <img src="images/Python.png" alt="Python logo" width="20" style="max-width:100%;"> <img src="images/JavaScript.png" alt="JavaScript logo" width="20" style="max-width:100%;"> <img src="images/HTML.png" alt="HTML logo" width="20" style="max-width:100%;"> <img src="images/CSS.png" alt="CSS logo" width="20" style="max-width:100%;"> <img src="images/React.png" alt="React logo" width="20" style="max-width:100%;"> <img src="images/Vue3.png" alt="Vue3 logo" width="20" style="max-width:100%;"> <img src="images/django.png" alt="django logo" width="15" style="max-width:100%;"> <img src="images/SQL.png" alt="SQL logo" width="20" style="max-width:100%;"> <img src="images/Racket.png" alt="Racket logo" width="20" style="max-width:100%;"> <img src="images/R.png" alt="R logo" width="20" style="max-width:100%;"> <img src="images/SWI PROLOG.png" alt="SWI PROLOG logo" width="20" style="max-width:100%;"> <img src="images/Erlang.png" alt="Erlang logo" width="20" style="max-width:100%;"> <img src="images/Unity.png" alt="Unity logo" width="20" style="max-width:100%;"> <img src="images/MATLAB.png" alt="MATLAB logo" width="20" style="max-width:100%;">
+<img src="images/C++.png" alt="C++ logo" width="20" style="max-width:100%;"> <img src="images/CS.png" alt="CS logo" width="20" style="max-width:100%;"> <img src="images/Python.png" alt="Python logo" width="20" style="max-width:100%;"> <img src="images/JavaScript.png" alt="JavaScript logo" width="20" style="max-width:100%;"> <img src="images/HTML.png" alt="HTML logo" width="20" style="max-width:100%;"> <img src="images/CSS.png" alt="CSS logo" width="20" style="max-width:100%;"> <img src="images/React.png" alt="React logo" width="20" style="max-width:100%;"> <img src="images/Vue3.png" alt="Vue3 logo" width="20" style="max-width:100%;"> <img src="images/django.png" alt="django logo" width="15" style="max-width:100%;"> <img src="images/SQL.png" alt="SQL logo" width="20" style="max-width:100%;"> <img src="images/Firebase.png" alt="Firebase logo" width="25" style="max-width:100%;"> <img src="images/Racket.png" alt="Racket logo" width="20" style="max-width:100%;"> <img src="images/R.png" alt="R logo" width="20" style="max-width:100%;"> <img src="images/SWI PROLOG.png" alt="SWI PROLOG logo" width="20" style="max-width:100%;"> <img src="images/Erlang.png" alt="Erlang logo" width="20" style="max-width:100%;"> <img src="images/Unity.png" alt="Unity logo" width="20" style="max-width:100%;"> <img src="images/MATLAB.png" alt="MATLAB logo" width="20" style="max-width:100%;">
 
 # Dev-Stuff
 Here's where I save all my most outstanding works, applications and codes as a developer during my B.S. in Computer Science career
@@ -58,6 +58,14 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td>
       <img src="images/Racket.png" alt="Racket logo" width="18" style="max-width:100%;"> Racket
     </td><td>Here are contained some activities realized in Scheme/Racket for functional programming. As the project, I made a syntax highlighter that gives color to different C++ code components.</td>
+  </tr>
+  
+  <tr>
+    <td>6</td>
+    <td><a href="https://github.com/DannyJr08/los-trabajos-de-steve_ssa-web.git">React Web/IOS Project</a></td>
+    <td>
+      <img src="images/React.png" alt="React logo" width="18" style="max-width:100%;"> React
+    </td><td>I developed the website for a two-sided application, being a mobile app the complement, for a doctor member of the Public Health Secretary. The web part is intended to be designed and functional only for the doctor users.</td>
   </tr>
   
   <tr>
