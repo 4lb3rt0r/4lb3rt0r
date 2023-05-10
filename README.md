@@ -62,22 +62,22 @@ Here's where I save all my most outstanding works, applications and codes as a d
   
   <tr>
     <td>6</td>
-    <td><a href="https://github.com/DannyJr08/los-trabajos-de-steve_ssa-web.git">React Web/IOS Project</a></td>
+    <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Swift%20UI">Swift Mobile Apps</a></td>
     <td>
-      <img src="images/React.png" alt="React logo" width="18" style="max-width:100%;"> React
-    </td><td>I developed the website for a two-sided application, being a mobile app the complement, for a doctor member of the Public Health Secretary. The web part is intended to be designed and functional only for the doctor users.</td>
-  </tr>
-  
-  <tr>
-    <td>6</td>
-    <td><a href="https://github.com/DannyJr08/los-trabajos-de-steve_ssa-web.git">React Web/IOS Project</a></td>
-    <td>
-      <img src="images/React.png" alt="React logo" width="18" style="max-width:100%;"> React
-    </td><td>I developed the website for a two-sided application, being a mobile app the complement, for a doctor member of the Public Health Secretary. The web part is intended to be designed and functional only for the doctor users.</td>
+      <img src="images/Swift.png" alt="Swift logo" width="18" style="max-width:100%;"> Swift
+    </td><td>I developed some mobile apps with XCode using Swift UI. Here are stored some of that activities I coded during the classes.</td>
   </tr>
   
   <tr>
     <td>7</td>
+    <td><a href="https://github.com/DannyJr08/los-trabajos-de-steve_ssa-web.git">React Web/IOS Project</a></td>
+    <td>
+      <img src="images/React.png" alt="React logo" width="18" style="max-width:100%;"> React
+    </td><td>I developed the website for a two-sided application, being a mobile app the complement, for a doctor member of the Public Health Secretary. The web part is intended to be designed and functional only for the doctor users.</td>
+  </tr>
+  
+  <tr>
+    <td>8</td>
     <td><a href="https://github.com/4lb3rt0r/Semana-Tec-Web.git">Vue3 Walmart WebPage</a></td>
     <td>
       <img src="images/Vue3.png" alt="Vue3 logo" width="18" style="max-width:100%;"> Vue3
@@ -85,7 +85,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td>Django Predictive Models WebSite</td>
     <td>
       <img src="images/django.png" alt="Django logo" width="15" style="max-width:100%;"> Django
@@ -93,7 +93,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Unity">Unity Games</a></td>
     <td>
       <img src="images/Unity.png" alt="Unity logo" width="15" style="max-width:100%;"> Unity / <img src="images/CS.png" alt="C# logo" width="15" style="max-width:100%;"> C#
@@ -101,7 +101,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>10</td>
+    <td>11</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Erlang">Erlang Parallel Programming</a></td>
     <td>
       <img src="images/Erlang.png" alt="Erlang logo" width="18" style="max-width:100%;"> Erlang
@@ -109,7 +109,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>11</td>
+    <td>12</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Assembly">Assembly Project</a></td>
     <td>
       Assembly
@@ -117,7 +117,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>12</td>
+    <td>13</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/MATLAB">MATLAB modeling & programming</a></td>
     <td>
       <img src="images/MATLAB.png" alt="MATLAB logo" width="18" style="max-width:100%;"> MATLAB
@@ -125,7 +125,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>13</td>
+    <td>14</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/R">R scripts</a></td>
     <td>
       <img src="images/R.png" alt="R logo" width="18" style="max-width:100%;"> R
@@ -133,7 +133,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>14</td>
+    <td>15</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/SWI%20Prolog">SWI Prolog scripts</a></td>
     <td>
       <img src="images/SWI PROLOG.png" alt="SWI Prolog logo" width="18" style="max-width:100%;"> SWI Prolog
