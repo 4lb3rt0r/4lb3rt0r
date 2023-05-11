@@ -49,7 +49,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Python">Python programming</a></td>
     <td>
       <img src="images/Python.png" alt="Python logo" width="18" style="max-width:100%;"> Python
-    </td><td>Here are contained some activities realized in Python language. Some of the scripts are made for classes, others are personal projects like using API's for manipulating other web applications, web scrapping, etc. There are missing scripts that have to be updated or uploaded soon./td>
+    </td><td>Here are contained some activities realized in Python language. Some of the scripts are made for classes, others are personal projects like using API's for manipulating other web applications, web scrapping, etc. There are missing scripts that have to be updated or uploaded soon.</td>
   </tr>
   
   <tr>
