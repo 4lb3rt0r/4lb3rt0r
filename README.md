@@ -7,7 +7,7 @@ I am a BS in Computer Science and Technology student at the Tecnológico de Mont
 Computer Science Science, Web Development & Design, Data Bases, Videogame Development
 
 ### Domained Programming Languages & Tools:
-<img src="images/C++.png" alt="C++ logo" width="20" style="max-width:100%;"> <img src="images/CS.png" alt="CS logo" width="20" style="max-width:100%;"> <img src="images/Python.png" alt="Python logo" width="20" style="max-width:100%;"> <img src="images/JavaScript.png" alt="JavaScript logo" width="20" style="max-width:100%;"> <img src="images/HTML.png" alt="HTML logo" width="23" style="max-width:100%;"> <img src="images/CSS.png" alt="CSS logo" width="25" style="max-width:100%;"> <img src="images/React.png" alt="React logo" width="20" style="max-width:100%;"> <img src="images/Vue3.png" alt="Vue3 logo" width="20" style="max-width:100%;"> <img src="images/django.png" alt="django logo" width="15" style="max-width:100%;"> <img src="images/Bootstrap.png" alt="Bootstrap logo" width="25" style="max-width:100%;"> <img src="images/Swift.png" alt="Swift logo" width="20" style="max-width:100%;"> <img src="images/SQL.png" alt="SQL logo" width="20" style="max-width:100%;"> <img src="images/Firebase.png" alt="Firebase logo" width="25" style="max-width:100%;"> <img src="images/Racket.png" alt="Racket logo" width="20" style="max-width:100%;"> <img src="images/R.png" alt="R logo" width="20" style="max-width:100%;"> <img src="images/SWI PROLOG.png" alt="SWI PROLOG logo" width="20" style="max-width:100%;"> <img src="images/Erlang.png" alt="Erlang logo" width="20" style="max-width:100%;"> <img src="images/Unity.png" alt="Unity logo" width="20" style="max-width:100%;"> <img src="images/MATLAB.png" alt="MATLAB logo" width="20" style="max-width:100%;">
+<img src="images/C++.png" alt="C++ logo" width="20" style="max-width:100%;"> <img src="images/CS.png" alt="CS logo" width="20" style="max-width:100%;"> <img src="images/Python.png" alt="Python logo" width="20" style="max-width:100%;"> <img src="images/AWS_EC2.png" alt="EC2 logo" width="20" style="max-width:100%;"> <img src="images/AWS_S3.png" alt="S3 logo" width="22" style="max-width:100%;"> <img src="images/JavaScript.png" alt="JavaScript logo" width="20" style="max-width:100%;"> <img src="images/HTML.png" alt="HTML logo" width="23" style="max-width:100%;"> <img src="images/CSS.png" alt="CSS logo" width="25" style="max-width:100%;"> <img src="images/React.png" alt="React logo" width="20" style="max-width:100%;"> <img src="images/Vue3.png" alt="Vue3 logo" width="20" style="max-width:100%;"> <img src="images/django.png" alt="django logo" width="15" style="max-width:100%;"> <img src="images/Bootstrap.png" alt="Bootstrap logo" width="25" style="max-width:100%;"> <img src="images/Swift.png" alt="Swift logo" width="20" style="max-width:100%;"> <img src="images/SQL.png" alt="SQL logo" width="20" style="max-width:100%;"> <img src="images/Firebase.png" alt="Firebase logo" width="25" style="max-width:100%;"> <img src="images/Racket.png" alt="Racket logo" width="20" style="max-width:100%;"> <img src="images/R.png" alt="R logo" width="20" style="max-width:100%;"> <img src="images/SWI PROLOG.png" alt="SWI PROLOG logo" width="20" style="max-width:100%;"> <img src="images/Erlang.png" alt="Erlang logo" width="20" style="max-width:100%;"> <img src="images/Unity.png" alt="Unity logo" width="20" style="max-width:100%;"> <img src="images/MATLAB.png" alt="MATLAB logo" width="20" style="max-width:100%;">
 
 # Dev-Stuff
 Here's where I save all my most outstanding works, applications and codes as a developer during my B.S. in Computer Science career
@@ -17,7 +17,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
 ## Projects
 <table>
   <tr>
-    <th>ID</th><th>Project Name</th><th>Language</th><th>Description</th>
+    <th>ID</th><th>Project Name</th><th>Languages/Tools</th><th>Description</th>
   </tr>
   
   <tr>
@@ -51,9 +51,43 @@ Here's where I save all my most outstanding works, applications and codes as a d
       <img src="images/Python.png" alt="Python logo" width="18" style="max-width:100%;"> Python
     </td><td>Here are contained some activities realized in Python language. Some of the scripts are made for classes, others are personal projects like using API's for manipulating other web applications, web scrapping, etc. There are missing scripts that have to be updated or uploaded soon.</td>
   </tr>
-  
+
   <tr>
     <td>5</td>
+    <td>
+      <a href="https://github.com/4lb3rt0r/TC3006C_Equipo2">Advanced Artificial Inteligence I</a>
+      <li>
+        <a href="https://github.com/4lb3rt0r/TC3006C_Portafolio_Analisis">Analysis Portfolio</a>
+      </li>
+      <li>
+        <a href="https://github.com/4lb3rt0r/TC3006C_Portafolio_Implementacion">Implementation Portfolio</a>
+      </li>
+    </td>
+    <td>
+      <img src="images/Python.png" alt="Python logo" width="18" style="max-width:100%;"> Python /
+      <img src="images/AWS_EC2.png" alt="EC2 logo" width="15" style="max-width:100%;"> EC2 / <img src="images/AWS_S3.png" alt="EC2 logo" width="18" style="max-width:100%;"> S3
+    </td><td>This is a set of repositories that contain all the most outstanding activities and projects I have realized in the first part of the Advanced AI concentration I took.</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>
+      <a href="https://github.com/4lb3rt0r/TC3006C_Equipo2">Advanced Artificial Inteligence II</a>
+      <li>
+        <a href="https://github.com/4lb3rt0r/TC3007C_Portafolio_Analisis">Analysis Portfolio</a>
+      </li>
+      <li>
+        <a href="https://github.com/4lb3rt0r/TC3007C_Portafolio_Implementacion">Implementation Portfolio</a>
+      </li>
+    </td>
+    <td>
+      <img src="images/Python.png" alt="Python logo" width="18" style="max-width:100%;"> Python /
+      <img src="images/AWS_EC2.png" alt="EC2 logo" width="15" style="max-width:100%;"> EC2 / <img src="images/AWS_S3.png" alt="EC2 logo" width="18" style="max-width:100%;"> S3
+    </td><td>This is a set of repositories that contain all the most outstanding activities and projects I have realized in the second part of the Advanced AI concentration I took.</td>
+  </tr>
+  
+  <tr>
+    <td>7</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/DrRacket">Scheme Syntax Highlighter</a></td>
     <td>
       <img src="images/Racket.png" alt="Racket logo" width="18" style="max-width:100%;"> Racket
@@ -61,7 +95,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>6</td>
+    <td>8</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Swift%20UI">Swift Mobile Apps</a></td>
     <td>
       <img src="images/Swift.png" alt="Swift logo" width="18" style="max-width:100%;"> Swift
@@ -69,7 +103,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>7</td>
+    <td>9</td>
     <td><a href="https://github.com/DannyJr08/los-trabajos-de-steve_ssa-web.git">React Web/IOS Project</a></td>
     <td>
       <img src="images/React.png" alt="React logo" width="18" style="max-width:100%;"> React
@@ -77,7 +111,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>8</td>
+    <td>10</td>
     <td><a href="https://github.com/4lb3rt0r/Semana-Tec-Web.git">Vue3 Walmart WebPage</a></td>
     <td>
       <img src="images/Vue3.png" alt="Vue3 logo" width="18" style="max-width:100%;"> Vue3
@@ -85,7 +119,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>9</td>
+    <td>11</td>
     <td>Django Predictive Models WebSite</td>
     <td>
       <img src="images/django.png" alt="Django logo" width="15" style="max-width:100%;"> Django
@@ -93,7 +127,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>10</td>
+    <td>12</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Unity">Unity Games</a></td>
     <td>
       <img src="images/Unity.png" alt="Unity logo" width="15" style="max-width:100%;"> Unity / <img src="images/CS.png" alt="C# logo" width="15" style="max-width:100%;"> C#
@@ -101,7 +135,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>11</td>
+    <td>13</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Erlang">Erlang Parallel Programming</a></td>
     <td>
       <img src="images/Erlang.png" alt="Erlang logo" width="18" style="max-width:100%;"> Erlang
@@ -109,7 +143,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>12</td>
+    <td>14</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/Assembly">Assembly Project</a></td>
     <td>
       Assembly
@@ -117,7 +151,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>13</td>
+    <td>15</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/MATLAB">MATLAB modeling & programming</a></td>
     <td>
       <img src="images/MATLAB.png" alt="MATLAB logo" width="18" style="max-width:100%;"> MATLAB
@@ -125,7 +159,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>14</td>
+    <td>16</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/R">R scripts</a></td>
     <td>
       <img src="images/R.png" alt="R logo" width="18" style="max-width:100%;"> R
@@ -133,7 +167,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   </tr>
   
   <tr>
-    <td>15</td>
+    <td>17</td>
     <td><a href="https://github.com/4lb3rt0r/Dev-Stuff/tree/main/SWI%20Prolog">SWI Prolog scripts</a></td>
     <td>
       <img src="images/SWI PROLOG.png" alt="SWI Prolog logo" width="18" style="max-width:100%;"> SWI Prolog
