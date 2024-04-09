@@ -77,7 +77,7 @@ Here's where I save all my most outstanding works, applications and codes as a d
   <tr>
     <td>6</td>
     <td>
-      <a href="https://github.com/4lb3rt0r/TC3006C_Equipo2" style="font-weight: bold;">Advanced Artificial Inteligence II</a>
+      <a href="https://github.com/4lb3rt0r/TC3007C_Equipo2" style="font-weight: bold;">Advanced Artificial Inteligence II</a>
       <li>
         <a href="https://github.com/4lb3rt0r/TC3007C_Portafolio_Analisis">Analysis Portfolio</a>
       </li>
