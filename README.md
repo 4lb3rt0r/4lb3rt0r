@@ -2,7 +2,7 @@
 
 ### About me:
 
-I am a BS in Computer Science and Technology student at the Tecnológico de Monterrey University, with diverse knowledge in computer programming and application development. Adaptable to all work environments, with a strong sense of emotional intelligence and responsibility, willing to work as a team, always keeping in mind honesty, respect and tolerance. Eager to pursue a career in computer science with possibly a data science specialization.
+I am a BS in Computer Science and Technology engineer, graduated at the Tecnológico de Monterrey University, with diverse knowledge in computer programming and application development. Adaptable to all work environments, with a strong sense of emotional intelligence and responsibility, willing to work as a team, always keeping in mind honesty, respect and tolerance. Eager to pursue a career in computer science with possibly a data science specialization.
 
 ### Areas of Interest:
 
